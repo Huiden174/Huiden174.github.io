@@ -13,7 +13,10 @@
     "interstitial_every": 3,
     "interstitial_from": 3
   },
-  "events": [],
+  "events": [
+  {"id": "test", "until": "2026-11-02", "coins_mult": 2,
+   "title": {"en": "Double Coins Test!", "zh_CN": "金币双倍测试！"}}
+]
   "news": {
     "id": "welcome_1",
     "title": {

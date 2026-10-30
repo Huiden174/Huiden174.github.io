@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "tz": 8,
+  "latest_version": "",
+  "min_version": "",
+  "tuning": {
+    "difficulty": 1.0,
+    "stamina_cost": 5,
+    "ad_stamina": 10,
+    "ad_daily_limit": 5,
+    "ad_gems": 10,
+    "ad_gems_daily": 3,
+    "interstitial_every": 3,
+    "interstitial_from": 3
+  },
+  "events": [],
+  "news": {
+    "id": "welcome_1",
+    "title": {
+      "en": "Welcome, Chief!",
+      "zh_CN": "欢迎你，酋长！",
+      "zh_TW": "歡迎你，酋長！",
+      "ja": "ようこそ、族長！",
+      "ko": "환영해요, 족장님!",
+      "th": "ยินดีต้อนรับ หัวหน้า!",
+      "ms": "Selamat datang, Ketua!",
+      "id": "Selamat datang, Kepala!"
+    },
+    "body": {
+      "en": "Thanks for playing Time Bunny Bandits! Here is a small gift to start your adventure.",
+      "zh_CN": "感谢你玩时光兔大盗！送你一份小礼物，开始冒险吧。",
+      "zh_TW": "感謝你玩時光兔大盜！送你一份小禮物，開始冒險吧。",
+      "ja": "タイムバニー・バンディッツを遊んでくれてありがとう！冒険のスタートに小さなプレゼントをどうぞ。",
+      "ko": "타임 버니 밴디츠를 플레이해 줘서 고마워요! 모험을 시작할 작은 선물을 받으세요.",
+      "th": "ขอบคุณที่เล่น Time Bunny Bandits! รับของขวัญเล็ก ๆ เพื่อเริ่มการผจญภัยนะ",
+      "ms": "Terima kasih kerana bermain Time Bunny Bandits! Ini hadiah kecil untuk memulakan pengembaraan.",
+      "id": "Terima kasih sudah bermain Time Bunny Bandits! Ini hadiah kecil untuk memulai petualangan."
+    },
+    "reward": {"gems": 50}
+  },
+  "codes": {}
+}

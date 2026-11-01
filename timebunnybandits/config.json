@@ -14,6 +14,18 @@
     "interstitial_from": 3
   },
  "events": [],
+  "packs": [
+  {
+    "id": "coast_launch",
+    "product": "pack_mid",
+    "from": "2026-11-05",
+    "until": "2026-11-30",
+    "limit": 1,
+    "title": {"en": "Shell Coast Pack", "zh_CN": "贝壳海岸礼包"},
+    "badge": {"en": "x5 value", "zh_CN": "超值 5 倍"},
+    "reward": {"gems": 800, "coins": 8000, "shards": 30, "soldier": "plesio"}
+  }
+],
   "news": {
     "id": "welcome_1",
     "title": {

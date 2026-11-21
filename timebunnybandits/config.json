@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tz": 8,
-  "latest_version": "",
+  "latest_version": "1.0.1",
   "min_version": "",
   "tuning": {
     "difficulty": 1.0,

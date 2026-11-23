@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "tz": 8,
   "latest_version": "1.2.0",
   "min_version": "1.0.1",
@@ -24,6 +24,16 @@
       "title": {"en": "Shell Coast Pack", "zh_CN": "贝壳海岸礼包"},
       "badge": {"en": "x5 value", "zh_CN": "超值 5 倍"},
       "reward": {"gems": 800, "coins": 8000, "shards": 30, "soldier": "plesio"}
+    },
+     {
+      "id": "desert_launch",
+      "product": "pack_mid",
+      "from": "2026-12-01",
+      "until": "2026-12-31",
+      "limit": 1,
+      "title": {"en": "Fossil Desert Pack", "zh_CN": "化石沙漠礼包", "zh_TW": "化石沙漠禮包", "ja": "化石砂漠パック", "ko": "화석 사막 팩"},
+      "badge": {"en": "x5 value", "zh_CN": "超值 5 倍", "zh_TW": "超值 5 倍", "ja": "5倍お得", "ko": "5배 가치"},
+      "reward": {"gems": 800, "coins": 10000, "shards": 30, "soldier": "pachy", "stamina": 30}
     }
   ],
   "news": {

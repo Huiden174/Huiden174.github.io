@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "tz": 8,
   "latest_version": "1.0.1",
   "min_version": "1.0.1",
@@ -13,19 +13,19 @@
     "interstitial_every": 3,
     "interstitial_from": 3
   },
- "events": [],
+  "events": [],
   "packs": [
-  {
-    "id": "coast_launch",
-    "product": "pack_mid",
-    "from": "2026-11-05",
-    "until": "2026-11-30",
-    "limit": 1,
-    "title": {"en": "Shell Coast Pack", "zh_CN": "贝壳海岸礼包"},
-    "badge": {"en": "x5 value", "zh_CN": "超值 5 倍"},
-    "reward": {"gems": 800, "coins": 8000, "shards": 30, "soldier": "plesio"}
-  }
-],
+    {
+      "id": "coast_launch",
+      "product": "pack_mid",
+      "from": "2026-11-05",
+      "until": "2026-11-30",
+      "limit": 1,
+      "title": {"en": "Shell Coast Pack", "zh_CN": "贝壳海岸礼包"},
+      "badge": {"en": "x5 value", "zh_CN": "超值 5 倍"},
+      "reward": {"gems": 800, "coins": 8000, "shards": 30, "soldier": "plesio"}
+    }
+  ],
   "news": {
     "id": "welcome_1",
     "title": {
@@ -50,5 +50,23 @@
     },
     "reward": {"gems": 50}
   },
-  "codes": {}
+  "codes": {},
+  "play_ids": {
+    "ach_region_1": "CgkIm6zM_OkSEAIQAg",
+    "ach_region_2": "CgkIm6zM_OkSEAIQBg",
+    "ach_region_3": "CgkIm6zM_OkSEAIQBA",
+    "ach_region_4": "CgkIm6zM_OkSEAIQDQ",
+    "ach_region_5": "CgkIm6zM_OkSEAIQDg",
+    "ach_region_6": "CgkIm6zM_OkSEAIQCA",
+    "ach_region_7": "CgkIm6zM_OkSEAIQBQ",
+    "ach_region_8": "CgkIm6zM_OkSEAIQCw",
+    "ach_stars_100": "CgkIm6zM_OkSEAIQDA",
+    "ach_stars_200": "CgkIm6zM_OkSEAIQCQ",
+    "ach_daily_1": "CgkIm6zM_OkSEAIQCg",
+    "ach_endless_10": "CgkIm6zM_OkSEAIQBw",
+    "ach_endless_25": "CgkIm6zM_OkSEAIQAw",
+    "ach_endless_50": "CgkIm6zM_OkSEAIQAQ",
+    "lb_endless": "CgkIm6zM_OkSEAIQDw",
+    "lb_stars": "CgkIm6zM_OkSEAIQEA"
+  }
 }

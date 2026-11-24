@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "note": "Forest Hunter festival schedule. Upload next to update.json. Dates are UTC+8 days.",
+  "festivals": [
+    {
+      "id": "christmas_2026",
+      "name": "圣诞猎季",
+      "start": "2026-12-21",
+      "days": 7,
+      "color": "#C8423B",
+      "accent": "#3E8E4F",
+      "icon": "tree"
+    },
+    {
+      "id": "newyear_2027",
+      "name": "新年猎季",
+      "start": "2026-12-29",
+      "days": 7,
+      "color": "#3F5FB8",
+      "accent": "#F2C14E",
+      "icon": "star"
+    },
+    {
+      "id": "cny_2027",
+      "name": "春节猎季",
+      "start": "2027-02-04",
+      "days": 7,
+      "color": "#D23C2E",
+      "accent": "#F2C14E",
+      "icon": "lantern"
+    },
+    {
+      "id": "raya_2027",
+      "name": "开斋节猎季",
+      "start": "2027-03-08",
+      "days": 7,
+      "color": "#2E8B57",
+      "accent": "#F2C14E",
+      "icon": "moon",
+      "estimated": true
+    },
+    {
+      "id": "duanwu_2027",
+      "name": "端午猎季",
+      "start": "2027-06-07",
+      "days": 7,
+      "color": "#3C8D6E",
+      "accent": "#E9D27A",
+      "icon": "leaf"
+    },
+    {
+      "id": "merdeka_2027",
+      "name": "国庆猎季",
+      "start": "2027-08-28",
+      "days": 7,
+      "color": "#2443A6",
+      "accent": "#D9302C",
+      "icon": "star"
+    },
+    {
+      "id": "midautumn_2027",
+      "name": "中秋猎季",
+      "start": "2027-09-12",
+      "days": 7,
+      "color": "#5B4A9E",
+      "accent": "#F5C65A",
+      "icon": "moon"
+    },
+    {
+      "id": "deepavali_2027",
+      "name": "屠妖节猎季",
+      "start": "2027-10-25",
+      "days": 7,
+      "color": "#C2571A",
+      "accent": "#F5C65A",
+      "icon": "lamp",
+      "estimated": true
+    },
+    {
+      "id": "christmas_2027",
+      "name": "圣诞猎季",
+      "start": "2027-12-21",
+      "days": 7,
+      "color": "#C8423B",
+      "accent": "#3E8E4F",
+      "icon": "tree"
+    }
+  ]
+}
